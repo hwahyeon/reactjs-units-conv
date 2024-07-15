@@ -1,5 +1,5 @@
 # Units Converter
-The units Converter made with React JS.
+The units converter made with React.
 
 ### **[Start](https://hwahyeon.github.io/reactjs-units-conv/)**
 
